@@ -2,7 +2,7 @@
 
 A lightweight mock backend for the Netflix Android app. It is built with Kotlin and Ktor and provides home-feed, video-detail, profile, and local media endpoints.
 
-**Frontend:** [oliver3629/netflixfe](https://github.com/oliver3629/netflixfe) — the companion Android app that consumes this API.
+**Project Frontend:** [Netflix_Frontend](https://github.com/oliver3629/Netflix_Frontend) — the companion Android app that consumes this API.
 
 ## Features
 
